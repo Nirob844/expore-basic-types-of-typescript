@@ -1,2 +1,2 @@
-const course: string = "next level web deplovment";
+const course: string = "next level web development";
 console.log(course);
